@@ -8,7 +8,8 @@ Develop the BackEnd for a Notes App in Django Rest Framework using Serializers
 4. Use Postman to PUSH and POST
 5. Use the SQLite DB.
 6. No need to create Users and Authentication.
-7. 
+7. Feel free to add whatever you feel like
+
 ### Submission Instructions
 1. Fork the repo
 2. Create a directory with your name within the submission directory
